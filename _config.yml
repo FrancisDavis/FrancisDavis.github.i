@@ -30,20 +30,20 @@ disqus_shortname:   mdothan
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-#  plus:            minbiao.han
+google:
+  plus:            citations?user=7HTsNicAAAAJ&hl=en
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:              minbiao.han@virginia.edu
+email:              minbiao.han@virginia.edu
 #facebook:           username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          minbiaohan
 #xing:              username
 #instagram:          imdothan
-#github-url:         MinbiaoHan
+github-url:         MinbiaoHan
 #twitter:            imdothan
 #lastfm:            username
 #tumblr:            username
