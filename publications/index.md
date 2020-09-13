@@ -5,11 +5,11 @@ date: 2017-10-01
 comments: false
 ---
     
-### Working Paper   
+## Working Paper   
 **Optimal Auctions with Strict Incentive Compatibility**<br>
 with Michael Albert
 
-### Publications
+## Publications
 **Be Careful when Learning to Price: A Theory of Learning from Strategically Revealed Preferences**<br>
 (Alphabetic Order) Quinlan Dawkins, **Minbiao Han**, Haifeng Xu <br>
 submitted to **NeurIPS 2020**    
