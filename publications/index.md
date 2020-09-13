@@ -11,5 +11,10 @@ with Michael Albert
 
 ### Publications
 **Be Careful when Learning to Price: A Theory of Learning from Strategically Revealed Preferences**<br>
-with Quinlan Dawkins and Haifeng Xu
-submitted to **NeurIPS 2020**
+(Alphabetic order) Quinlan Dawkins, **Minbiao Han**, Haifeng Xu <br>
+submitted to **NeurIPS 2020**    
+    
+**Item Sorting Platform Based on Cloud Computing**    
+**Minbiao Han**, Jianfei Yang, Zhou Fang, Zhiyuan Fang    
+13th International Conference on e-Business Engineering (ICEBE 2016)
+    
