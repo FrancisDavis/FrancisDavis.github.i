@@ -15,6 +15,6 @@ with Michael Albert
 submitted to **NeurIPS 2020**    
     
 **Item Sorting Platform Based on Cloud Computing**    
-**Minbiao Han**, Jianfei Yang, Zhou Fang, Zhiyuan Fang    
+**Minbiao Han** (oral), Jianfei Yang, Zhou Fang, Zhiyuan Fang    
 13th International Conference on e-Business Engineering (ICEBE 2016)
     
