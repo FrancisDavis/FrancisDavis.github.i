@@ -14,7 +14,7 @@ with Michael Albert
 (Alphabetic Order) Quinlan Dawkins, **Minbiao Han**, Haifeng Xu <br>
 submitted to **NeurIPS 2020**    
     
-**Item Sorting Platform Based on Cloud Computing**    
+**[Item Sorting Platform Based on Cloud Computing](https://ieeexplore.ieee.org/abstract/document/7809934)**    
 **Minbiao Han** (oral), Jianfei Yang, Zhou Fang, Zhiyuan Fang    
 13th International Conference on e-Business Engineering (ICEBE 2016)
     
